@@ -34,3 +34,27 @@
 .red{
     color: rgba(255, 105, 180, 0.726);
 }
+
+.third{
+    padding: 100px 150px;
+    align-items: center;
+    
+}
+
+.third .degin{
+    display: flex;
+    margin: 50px 100px;
+    width: 10px;
+    font-size: 10px;
+    padding: 50px;
+    border-right: 10px;
+}
+.third .style{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.container{
+    align-items: center;
+}
