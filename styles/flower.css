@@ -10,7 +10,10 @@
 }
 
 .banner .primary{
-    color: coral;
+    color:black;
+    background-color: darksalmon;
+    padding: 10px;
+    border-radius: 5px;
     
 }
 
@@ -23,11 +26,13 @@
 .deal .picture{
     width: 200px;
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 140px;
 
 }
 .deal .secondary{
-    color: crimson;
+    color:black;
+    background-color: cadetblue;
+    border-radius: 10px;
     
 }
 
@@ -38,6 +43,7 @@
 .third{
     padding: 100px 150px;
     align-items: center;
+    text-align: center;
     
 }
 
@@ -48,6 +54,7 @@
     font-size: 10px;
     padding: 50px;
     border-right: 10px;
+    height: 200px;
 }
 .third .style{
     text-align: center;
@@ -57,4 +64,34 @@
 
 .container{
     align-items: center;
+    background-image: url('Rectangle\ 9.png');
+    background-size: 500px;
+    padding: 200px;
+
+    
+    
+}
+
+.container .area{
+    text-align: center;
+}
+
+.forth{
+    text-align: center;
+    background-color: black;
+    padding: 80px;
+
+}
+
+.forth .pink{
+    color: deeppink;
+}
+.forth .white{
+    color: azure;
+}
+.forth .ofwide{
+    color: blanchedalmond;
+}
+.forth .gray{
+    color: cadetblue;
 }
